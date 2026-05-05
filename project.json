@@ -4,7 +4,8 @@
   "description": "Min_Max_forEacH_assign",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.System.Activities": "[26.2.4]"
+    "UiPath.System.Activities": "[26.2.4]",
+    "UiPath.UIAutomation.Activities": "[25.10.31]"
   },
   "webServices": [],
   "entitiesStores": [],
